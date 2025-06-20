@@ -148,6 +148,5 @@ getProfile(
 
 * Используйте современный TypeScript (ES2021+), NestJS (>=9).
 * Структурируйте проект согласно best practice NestJS.
-* Каждый пункт — отдельный endpoint.
 
 ---
